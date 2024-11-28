@@ -1,4 +1,7 @@
 # Job_project
+
+## still working on it
+
 IT Jobs Analysis Report
 We conducted an extensive analysis of IT job postings by leveraging data scraped from two prominent job platforms: Wuzzuf and Naukrigulf. The project focused on creating a comprehensive, clean, and insightful dataset, which was transformed into a Power BI model for interactive visualizations. Below is an overview of the process and deliverables, presented in a professional HTML-like format.
 
