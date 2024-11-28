@@ -9,10 +9,10 @@ Identify in-demand skills, certifications, and technologies.
 Understand employer requirements, trends, and preferences.
 Provide actionable insights through intuitive Power BI dashboards for stakeholders to make informed decisions.
 
-3. Technologies Used
+2. Technologies Used
 <ul> <li><b>Data Extraction:</b> Python (<code>BeautifulSoup</code>, <code>Scrapy</code>, <code>Requests</code>)</li> <li><b>Data Cleaning:</b> Pandas, NLTK</li> <li><b>Data Modeling & Visualization:</b> Power BI, DAX</li> <li><b>Deployment:</b> Power BI Service, Power BI Gateway</li> </ul>
 
-4. Deliverables
+3. Deliverables
 <ul> <li>A clean, structured dataset ready for analysis.</li> <li>Interactive Power BI dashboards hosted on Power BI Service.</li> <li>Detailed insights report for stakeholders.</li> </ul>
 
 Conclusion
