@@ -18,7 +18,6 @@ Provide actionable insights through intuitive Power BI dashboards for stakeholde
 Conclusion
 This project provides valuable insights into IT job market trends, helping companies identify key skills to look for and professionals to focus their development on. The interactive dashboards enable efficient exploration of data, driving informed decision-making.
 
-Let me know if you'd like to explore the dashboards or access the dataset!
 
 
 
