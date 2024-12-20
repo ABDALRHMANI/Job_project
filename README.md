@@ -1,6 +1,7 @@
 # Job_project
 
-## still working on it
+## Link
+[https://www.linkedin.com/posts/abdalrhman-ibrahem-709a6a22a_microsoft-power-bi-activity-7275668733937754112-iMw5?utm_source=share&utm_medium=member_desktop](https://app.powerbi.com/reportEmbed?reportId=2f80ae7b-4bd9-45dd-a925-8bb9f77205e6&autoAuth=true&ctid=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8)
 
 IT Jobs Analysis Report
 We conducted an extensive analysis of IT job postings by leveraging data scraped from two prominent job platforms: Wuzzuf and Naukrigulf. The project focused on creating a comprehensive, clean, and insightful dataset, which was transformed into a Power BI model for interactive visualizations. Below is an overview of the process and deliverables, presented in a professional HTML-like format.
